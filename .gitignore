@@ -1,4 +1,6 @@
 .vscode
 .DS_Store
 .prettierrc
+.idea
 frontmatter.json
+
